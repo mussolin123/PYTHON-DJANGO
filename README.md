@@ -10,7 +10,7 @@ Criando App
 $ python3 manage.py startapp nome_app
 
 
-#🎲 Atualizando Banco de Dados
+# 🎲 Atualizando Banco de Dados
 $ python3 manage.py makemigrations 
 
 o arquivo sql com a estrutura do banco de dados é criado.
