@@ -24,11 +24,14 @@ $ python3 manage.py shell
 
 # Colinhas
 
-Importação das classes
+> Importação das classes
+> 
 from usuario.models import Aluno, Disciplina, Curso, Professor....
 
-Criando os objetos
+> Criando os objetos
+
 user = Usuario (nome = "Leticia Mussolin", ...)
 
-Salvando cada um dos objetos
+> Salvando cada um dos objetos
+> 
 user.save()
