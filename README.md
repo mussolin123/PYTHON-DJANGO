@@ -22,7 +22,7 @@ $ python3 manage.py migrate
 $ python3 manage.py shell
 
 
-# Colinhas
+# 📝 Colinhas
 
 > Importação das classes
 > 
