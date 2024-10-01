@@ -21,3 +21,14 @@ $ python3 manage.py migrate
 # 🖥️ Manipulando o django pelo terminal
 $ python3 manage.py shell
 
+
+# Colinhas
+
+Importação das classes
+from usuario.models import Aluno, Disciplina, Curso, Professor....
+
+Criando os objetos
+user = Usuario (nome = "Leticia Mussolin", ...)
+
+Salvando cada um dos objetos
+user.save()
