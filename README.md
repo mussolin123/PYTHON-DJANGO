@@ -1,6 +1,6 @@
 Para executar o projeto:
 
-# 🐍 INTALAÇÃO DO DJANGO 
+# 🐍 INSTALAÇÃO DO DJANGO 
 $ python3 -m pip install Django
 
 🖱️ Criando Projeto
